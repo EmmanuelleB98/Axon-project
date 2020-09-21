@@ -1,2 +1,2 @@
 # Axon-project
-GCN model for axon segmentation
+Axon segmentation using GCNs
