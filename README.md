@@ -3,11 +3,14 @@ Axon segmentation using GCNs
 
 Compatible with Python 3.6
 
-# Requirements: 
+# Requirements:
 
 numpy>=1.15.4 
+
 tensorflow>=1.15.2,<2.0
+
 networkx>=2.2
+
 scipy>=1.1.0
 
 
