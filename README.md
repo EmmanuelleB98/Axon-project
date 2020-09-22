@@ -14,7 +14,7 @@ networkx>=2.2
 scipy>=1.1.0
 
 
-Using the work of Thomas N. Kipf and  Max Welling (2017):
+Using the GCN implementation of Thomas N. Kipf and  Max Welling (2017):
 @inproceedings{kipf2017semi,
   title={Semi-Supervised Classification with Graph Convolutional Networks},
   author={Kipf, Thomas N. and Welling, Max},
